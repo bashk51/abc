@@ -6,6 +6,7 @@
 在不使用封装好的LSTM 模型的情况下，实现单层和双层LSTM模型循环部分
 
 LSTM.py为不使用封装好的LSTM的单层模型
+
 doubleLSTMLM.py为不使用封装好的LSTM的双层模型
 
 实现设计：
